@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jung7/static/css/main.6ccc8152.css",
+    "main.js": "/jung7/static/js/main.bec79764.js",
+    "static/js/453.b07842e4.chunk.js": "/jung7/static/js/453.b07842e4.chunk.js",
+    "index.html": "/jung7/index.html",
+    "main.6ccc8152.css.map": "/jung7/static/css/main.6ccc8152.css.map",
+    "main.bec79764.js.map": "/jung7/static/js/main.bec79764.js.map",
+    "453.b07842e4.chunk.js.map": "/jung7/static/js/453.b07842e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ccc8152.css",
+    "static/js/main.bec79764.js"
+  ]
+}
